@@ -18,7 +18,7 @@ L'objectif du projet est de **démontrer et expérimenter plusieurs types d'inte
 
 # Mini-jeux
 
-## Mini-jeu 1 — *Fruit Ninja*
+## Mini-jeu 1 — *Fruit Ninja* - Salomon Cohen
 
 **Description**
 
@@ -26,7 +26,7 @@ Un katana est mis à dispostion du joueur, aprés sa prise en main plusieurs obj
 
 ---
 
-## Mini-jeu 2 — *Tir à l'arc*
+## Mini-jeu 2 — *Tir à l'arc* - Coralie Thiery
 
 **Description**
 
@@ -34,7 +34,7 @@ De façcon similaire au premier mini jeu, un arc sera mis à disposition du joue
 
 ---
 
-## Mini-jeu 3 — *Dessin*
+## Mini-jeu 3 — *Dessin* - Romaric Zhang
 
 **Description**
 
@@ -42,7 +42,7 @@ Dans ce jeu, un canvas blanc est mis en place pour permettre au joueur de dessin
 
 ---
 
-## Mini-jeu 4 — *Labyrinthe*
+## Mini-jeu 4 — *Labyrinthe* - Noa Ducrot
 
 **Description**
 
