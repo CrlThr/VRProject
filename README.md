@@ -38,7 +38,7 @@ De façcon similaire au premier mini jeu, un arc sera mis à disposition du joue
 
 **Description**
 
-Dans ce jeu, un canvas blanc est mis en place pour permettre au joueur de dessiner, à l'aide d'un crayon, ce qu'il désire. Une gomme ainsi qu'un choix de couleurs sont également disponible afin de personnaliser le canvas.
+Dans ce jeu, un canvas blanc est mis en place pour permettre au joueur de dessiner, outils etant un crayon et une gomme, possibilité de tout effacer.
 
 ---
 
