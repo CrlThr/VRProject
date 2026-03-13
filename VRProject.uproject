@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{F41D6856-495A-610D-2338-E6A605F58881}",
+	"EngineAssociation": "{7A3863A9-4764-BCA9-4A90-A2B6B80DE830}",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -10,8 +10,8 @@
 			"SupportedTargetPlatforms": [
 				"Win64",
 				"Linux",
-				"Android",
-				"VisionOS"
+				"LinuxArm64",
+				"Android"
 			]
 		},
 		{
@@ -20,6 +20,7 @@
 			"SupportedTargetPlatforms": [
 				"Win64",
 				"Linux",
+				"LinuxArm64",
 				"Android"
 			]
 		},
@@ -29,8 +30,8 @@
 			"SupportedTargetPlatforms": [
 				"Win64",
 				"Linux",
-				"Android",
-				"VisionOS"
+				"LinuxArm64",
+				"Android"
 			]
 		}
 	],
